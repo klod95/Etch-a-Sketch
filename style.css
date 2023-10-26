@@ -1,0 +1,39 @@
+/* h1 {text-align: center;} */
+
+
+
+div.container {
+    background-color: rgb(221, 91, 91);
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;
+    height: 480px;
+    
+    position: relative;
+    top: 50%;
+    margin: -10px auto;
+  
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.divClass {
+     /* background-color: #4e65c3; */
+     width: 30px;
+     height: 30px;
+    
+    
+}
+body { 
+    background-color: gray;
+    text-align: center;
+    margin: 0px;  
+}
+#input {
+    margin-top: 40px;
+}
