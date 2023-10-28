@@ -12,23 +12,9 @@ div.container {
     position: relative;
     top: 50%;
     margin: -10px auto;
-  
-    
-    
-    
-    
-    
-    
-    
-    
+
 }
-.divClass {
-     /* background-color: #4e65c3; */
-     width: 30px;
-     height: 30px;
-    
-    
-}
+
 body { 
     background-color: gray;
     text-align: center;
