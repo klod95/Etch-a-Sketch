@@ -3,7 +3,7 @@
 
 
 div.container {
-    background-color: rgb(221, 91, 91);
+    background-color: rgb(255, 255, 255);
     display: flex;
     flex-wrap: wrap;
     width: 480px;
